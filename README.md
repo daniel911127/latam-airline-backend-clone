@@ -1,4 +1,4 @@
-# LATAM Airline Front-End Clone
+# LATAM Airline Back-End Clone
 
 ## Description
 
